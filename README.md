@@ -1,12 +1,18 @@
-# Blindness-Detection.
-The Blindness Deducon Project ocuses on creang a compuer-aided diagnosis sysem ha
-leverages Convoluonal Neural Nework (CNN) algorihms or he early deecon o Diabec
-Renopahy (DR), a leading cause o blindness among diabec paens. The projec involves he
-use o a large daase o eye images obained rom Kaggle, which has been preprocessed and
-resized o a uniorm size o enhance he perormance o he CNN models. The projec also
-involves he developmen o various CNN models using TensorFlow and Keras libraries, which
-will be rained on he preprocessed daase. The perormance o hese models will be evaluaed
-using dieren merics, such as accuracy, sensiviy, and speciciy. The ulmae goal o his
-projec is o develop an accurae and ecien compuer-aided diagnosis sysem ha can assis
-healhcare proessionals in he early deecon o DR, hus reducing he risk o blindness among
-diabec paens.
+<div style="width: 100%;">
+    <a href="#"><img src="./readmeSetup/welcome.svg" style="width: 100%"></a>
+</div>
+
+<div style="width: 100%;">
+    <a href="#"><img src="./readmeSetup/techStack.svg" style="width: 100%"></a>
+</div>
+
+The Blindness Detection Project focuses on creating a computer-aided diagnosis system that leverages Convolutional Neural Network (CNN) algorithms for the early detection of Diabetic Retinopathy (DR), a leading cause of blindness among diabetic patients. The project involves the use of a large dataset of eye images obtained from Kaggle, which has been preprocessed and resized to a uniform size to enhance the performance of the CNN models. The project also involves the development of various CNN models using TensorFlow and Keras libraries, which will be trained on the preprocessed dataset. The performance of these models will be evaluated using different metrics, such as accuracy, sensitivity, and specificity. The ultimate goal of this project is to develop an accurate and efficient computer-aided diagnosis system that can assist healthcare professionals in the early detection of DR, thus reducing the risk of blindness among diabetic patients.
+
+<h1></h1>
+
+<img src="./readmeSetup/contributors.svg" alt="Contributors" style="width: 100%;"/>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="./assets/myImage.png" alt="Image 1" style="width: 30%;"/>
+    <img src="./assets/myImage.png" alt="Image 2" style="width: 30%;"/>
+</div>
