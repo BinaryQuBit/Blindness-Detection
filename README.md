@@ -12,7 +12,18 @@ The Blindness Detection Project focuses on creating a computer-aided diagnosis s
 
 <img src="./readmeSetup/contributors.svg" alt="Contributors" style="width: 100%;"/>
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="./assets/myImage.png" alt="Image 1" style="width: 30%;"/>
-    <img src="./assets/myImage.png" alt="Image 2" style="width: 30%;"/>
-</div>
+- <a href = "https://github.com/BinaryQuBit">Amandip Padda</a>
+
+- <a href = "https://github.com/rsa149">Ramanpreet Singh</a>
+
+- <a href = "#">Ihab Salem</a>
+
+<h1></h1>
+
+<img src="./readmeSetup/resources.svg" alt="Resources" style="width: 100%;"/>
+
+- <a href = "https://github.com/BinaryQuBit/Blindness-Detection/blob/main/Documentation/Proposal.pdf">Project Proposal</a>
+
+- <a href = "https://github.com/BinaryQuBit/Blindness-Detection/blob/main/Documentation/Progress_Report.pdf">Project Progress Report</a>
+
+- <a href = "https://github.com/BinaryQuBit/Blindness-Detection/blob/main/Documentation/Project%20Report.pdf">Project Final Report</a>
