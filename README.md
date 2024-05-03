@@ -118,8 +118,9 @@ The Blindness Detection Project focuses on creating a computer-aided diagnosis s
     <a href="#"><img src="./readmeSetup/nextSteps.svg" style="width: 100%"></a>
 </div>
 
-* Since the model was trained on amd64 and using emulator is not efficient, the model has to be retrained on arm64 architecture.
-* The accuracy can be improved using different pre-trained architecture (VGG16 etc).
+* Given that the model was initially trained on an AMD64 architecture and using an emulator on ARM64 systems like Raspberry Pi is inefficient, it is advisable to retrain the model directly on ARM64 architecture for optimal performance.
+* Exploring different pre-trained architectures such as VGG16 could potentially enhance the model's accuracy.
+
   <br>
 
 <div style="width: 100%;">
