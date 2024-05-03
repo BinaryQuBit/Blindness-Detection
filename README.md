@@ -108,9 +108,6 @@ The Blindness Detection Project focuses on creating a computer-aided diagnosis s
 </div>
 
 * Accuracy: 77.68%
-<div style="width: 100%;">
-    <a href="#"><img src="./readmeSetup/confusionMatrix.png" style="width: 100%"></a>
-</div>
 
   <br>
 
