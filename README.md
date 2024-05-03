@@ -1,12 +1,22 @@
+<div align="center" style="width: 100%">
+    <h2>Check out <a href="https://blindnessdetection.csproject.org/">Blindness Detection</a></h2>
+</div>
+
+  <br>
+
 <div style="width: 100%;">
     <a href="#"><img src="./readmeSetup/welcome.svg" style="width: 100%"></a>
 </div>
+
+  <br>
 
 <div style="width: 100%;">
     <a href="#"><img src="./readmeSetup/projectName.svg" style="width: 100%"></a>
 </div>
 
 The Blindness Detection Project focuses on creating a computer-aided diagnosis system that leverages Convolutional Neural Network (CNN) algorithms for the early detection of Diabetic Retinopathy (DR), a leading cause of blindness among diabetic patients. The project involves the use of a large dataset of eye images obtained from Kaggle, which has been preprocessed and resized to a uniform size to enhance the performance of the CNN models. The project also involves the development of various CNN models using TensorFlow and Keras libraries, which will be trained on the preprocessed dataset. The performance of these models will be evaluated using different metrics, such as accuracy, sensitivity, and specificity. The ultimate goal of this project is to develop an accurate and efficient computer-aided diagnosis system that can assist healthcare professionals in the early detection of DR, thus reducing the risk of blindness among diabetic patients.
+
+  <br>
 
 <div style="width: 100%;">
     <a href="#"><img src="./readmeSetup/contributors.svg" style="width: 100%"></a>
@@ -17,6 +27,8 @@ The Blindness Detection Project focuses on creating a computer-aided diagnosis s
 - <a href = "https://github.com/rsa149">Ramanpreet Singh</a>
 
 - <a href = "https://github.com/Ehabmohamad">Ihab Mohamad</a>
+
+  <br>
 
 <div style="width: 100%;">
     <a href="#"><img src="./readmeSetup/techStack.svg" style="width: 100%"></a>
@@ -67,7 +79,48 @@ The Blindness Detection Project focuses on creating a computer-aided diagnosis s
   <img src="https://img.shields.io/badge/Casa%20OS-%234285F4.svg?style=for-the-badge&logoColor=white" alt="Casa OS">
 </p>
 
-<h2></h2>
+  <br>
+
+<div style="width: 100%;">
+    <a href="#"><img src="./readmeSetup/setup.svg" style="width: 100%"></a>
+</div>
+
+* Dataset -> <a href="https://www.kaggle.com/competitions/aptos2019-blindness-detection">APTOS 2019 Blindness Detection</a>
+
+* Architecture -> <a href="https://arxiv.org/pdf/1409.4842">Inception-V3</a>
+
+* Model was created with Google Collab (TF:2.15.0)
+
+      code -> modelCreation -> createModel.ipynb
+    <br>
+
+* Keras Model (h5) conversion to Tensorflow Lite (tflite). This was done to be used for arm64 architecture.
+
+      code -> modelCreation -> converter.ipynb
+    <br>
+
+* Cross-platform emulator -> <a href="https://hub.docker.com/r/tonistiigi/binfmt">tonistiigi/binfmt</a>
+
+  <br>
+
+<div style="width: 100%;">
+    <a href="#"><img src="./readmeSetup/result.svg" style="width: 100%"></a>
+</div>
+
+* Accuracy: 77.68%
+<div style="width: 100%;">
+    <a href="#"><img src="./readmeSetup/confusionMatrix.png" style="width: 100%"></a>
+</div>
+
+  <br>
+
+<div style="width: 100%;">
+    <a href="#"><img src="./readmeSetup/nextSteps.svg" style="width: 100%"></a>
+</div>
+
+* Since the model was trained on amd64 and using emulator is not efficient, the model has to be retrained on arm64 architecture.
+* The accuracy can be improved using different pre-trained architecture (VGG16 etc).
+  <br>
 
 <div style="width: 100%;">
     <a href="#"><img src="./readmeSetup/resources.svg" style="width: 100%"></a>
