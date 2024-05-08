@@ -43,7 +43,7 @@ def upload():
         
         file.save(file_path)
 
-        img = Image.open(file_path).resize((224, 224))
+        img = Image.open(file_path).convert('RGB').resize((224, 224))
         x = np.array(img, dtype=np.float32)
         x = np.expand_dims(x, axis=0)
         x /= 255.0
