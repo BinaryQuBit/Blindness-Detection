@@ -45,5 +45,5 @@ docker tag code-blindnessdetection binaryqubit/blindness-detection:latest
 echo "Pushing Image"
 docker push binaryqubit/blindness-detection:latest
 
-# echo "Deleting Images"
-# docker rmi -f $(docker images -q)
+echo "Deleting Images"
+docker rmi -f $(docker images -q)

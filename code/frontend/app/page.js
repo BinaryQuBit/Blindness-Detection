@@ -86,12 +86,11 @@ export default function Home() {
       setFile(file);
       const objectUrl = URL.createObjectURL(file);
       setUploadedImage(objectUrl);
-      setPrediction(null); // Reset prediction info
+      setPrediction(null);
     } else {
       resetState();
     }
   };
-
 
   // State of the reset
   const resetState = () => {
@@ -204,11 +203,11 @@ export default function Home() {
             Predict
           </button>
         )}
-        <div className={styles.prediction}>
+        <div>
           {prediction ? (
             <>
               <p>{prediction}</p>
-              <button className={styles.resetButton} onClick={handleReset}>
+              <button className={styles.uploadButton} onClick={handleReset}>
                 Reset
               </button>
             </>

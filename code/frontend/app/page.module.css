@@ -145,9 +145,14 @@
   flex-direction: column;
 }
 
-.faIcon{
+.faIcon {
   height: 24px;
   margin: 10px;
+  transition: transform 0.3s ease;
+}
+
+.faIcon:hover {
+  transform: scale(1.4);
 }
 
 .middleContainer{
