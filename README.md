@@ -1,6 +1,6 @@
 <div style="width: 100%;">
     <a href="#"><img src="./readmeSetup/welcome.svg" style="width: 100%"></a>
-</div>
+</div> 
 
 <br>
 <br>
@@ -46,7 +46,7 @@ The Blindness Detection Project focuses on creating a computer-aided diagnosis s
     <a href="#"><img src="./readmeSetup/techStack.svg" style="width: 100%"></a>
 </div>
 
-<h3 align = "center">Languages</h3>
+<h3 align = "center">👩‍💻 Languages</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -56,7 +56,7 @@ The Blindness Detection Project focuses on creating a computer-aided diagnosis s
 
 <h2></h2>
 
-<h3 align="center">Machine Learning Libraries</h3>
+<h3 align="center">🤖 Machine Learning Libraries</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
@@ -67,14 +67,15 @@ The Blindness Detection Project focuses on creating a computer-aided diagnosis s
 
 <h2></h2>
 
-<h3 align="center">Development Tools & Environments</h3>
+<h3 align="center">🚀 Development Tools & Environments</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vsCode">
 </p>
 
 <h2></h2>
 
-<h3 align="center">Web Development Frameworks & Libraries</h3>
+<h3 align="center">💻 Web Development Frameworks & Libraries</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
@@ -85,10 +86,17 @@ The Blindness Detection Project focuses on creating a computer-aided diagnosis s
 
 <h2></h2>
 
-<h3 align="center">Web Servers</h3>
+<h3 align="center">🌐 Web Servers</h3>
 <p align="center"">
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
   <img src="https://img.shields.io/badge/Casa%20OS-%234285F4.svg?style=for-the-badge&logoColor=white" alt="Casa OS">
+</p>
+
+<h2></h2>
+
+<h3 align="center">⚙️ Hardware and Microcontroller Boards</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
 </p>
 
 <br>
