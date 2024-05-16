@@ -79,15 +79,12 @@
           flex-direction: column;
         }
 
-        ul {
+        .items p {
           font-size: 14px;
           line-height: 26px;
           color: #9e3ffd;
           font-weight: 700;
           font-family: "Open Sans", sans-serif;
-        }
-
-        ul li {
           display: flex;
           letter-spacing: 0.125vw;
         }
@@ -98,18 +95,10 @@
         <span><em>blindness detection</em></span>
       </h1>
       <section class='items'>
-       <ul>
-        <li>The Blindness Detection Project aims to develop a</li>
-        </ul>
-        <ul>
-          <li>computer-aided diagnosis system using CNN algorithms</li>
-        </ul>
-        <ul>
-          <li>for early detection of Diabetic Retinopathy to</li>
-        </ul>
-        <ul>
-          <li>reduce blindness in diabetic patients.</li>
-        </ul>
+        <p>The Blindness Detection Project aims to develop a</p>
+        <p>computer-aided diagnosis system using CNN algorithms</p>
+        <p>for early detection of Diabetic Retinopathy to</p>
+        <p>reduce blindness in diabetic patients.</p>
       </section>
     </div>
   </foreignObject>
