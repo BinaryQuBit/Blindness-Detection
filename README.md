@@ -128,13 +128,9 @@ The Blindness Detection Project focuses on creating a computer-aided diagnosis s
 
       code -> modelCreation -> createModel.ipynb
 
-<br>
-
 - Keras Model (h5) conversion to Tensorflow Lite (tflite). This was done to be used for arm64 architecture.
 
       code -> modelCreation -> converter.ipynb
-
-<br>
 
 - Cross-platform emulator -> <a href="https://hub.docker.com/r/tonistiigi/binfmt">tonistiigi/binfmt</a>
 
