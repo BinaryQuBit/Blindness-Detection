@@ -125,11 +125,13 @@ The Blindness Detection Project focuses on creating a computer-aided diagnosis s
 - Dataset -> <a href="https://www.kaggle.com/competitions/aptos2019-blindness-detection">APTOS 2019 Blindness Detection</a>
 - Architecture -> <a href="https://arxiv.org/pdf/1409.4842">Inception-V3</a>
 - Model was created with Google Collab (TF:2.15.0)
+
       code -> modelCreation -> createModel.ipynb
 
 <br>
 
 - Keras Model (h5) conversion to Tensorflow Lite (tflite). This was done to be used for arm64 architecture.
+
       code -> modelCreation -> converter.ipynb
 
 <br>
