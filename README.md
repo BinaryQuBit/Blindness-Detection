@@ -35,9 +35,7 @@ The Blindness Detection Project focuses on creating a computer-aided diagnosis s
 <br>
 
 - <a href = "https://github.com/BinaryQuBit">Amandip Padda</a>
-
 - <a href = "https://github.com/rsa149">Ramanpreet Singh</a>
-
 - <a href = "https://github.com/Ehabmohamad">Ihab Mohamad</a>
 
 <br>
@@ -125,22 +123,20 @@ The Blindness Detection Project focuses on creating a computer-aided diagnosis s
 <br>
 
 - Dataset -> <a href="https://www.kaggle.com/competitions/aptos2019-blindness-detection">APTOS 2019 Blindness Detection</a>
-
 - Architecture -> <a href="https://arxiv.org/pdf/1409.4842">Inception-V3</a>
-
 - Model was created with Google Collab (TF:2.15.0)
-
       code -> modelCreation -> createModel.ipynb
+
 <br>
 
 - Keras Model (h5) conversion to Tensorflow Lite (tflite). This was done to be used for arm64 architecture.
-
       code -> modelCreation -> converter.ipynb
+
 <br>
 
 - Cross-platform emulator -> <a href="https://hub.docker.com/r/tonistiigi/binfmt">tonistiigi/binfmt</a>
 
-  <br>
+<br>
 
 <div style="width: 100%;">
     <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/d7f1f1d16c607a9124692b001b07b9f185f41cbf/headers/result.svg" style="width: 100%"></a>
@@ -150,7 +146,6 @@ The Blindness Detection Project focuses on creating a computer-aided diagnosis s
 
 - Accuracy: 77.68%
 
-<br>
 <br>
 
 <div style="width: 100%;">
@@ -163,11 +158,12 @@ The Blindness Detection Project focuses on creating a computer-aided diagnosis s
 - Exploring different pre-trained architectures such as VGG16 could potentially enhance the model's accuracy.
 
 <br>
-<br>
 
 <div style="width: 100%;">
     <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/d7f1f1d16c607a9124692b001b07b9f185f41cbf/headers/resources.svg" style="width: 100%"></a>
 </div>
+
+<br>
 
 - <a href = "https://github.com/BinaryQuBit/Blindness-Detection/blob/main/Documentation/Proposal.pdf">Project Proposal</a>
 - <a href = "https://github.com/BinaryQuBit/Blindness-Detection/blob/main/Documentation/Progress_Report.pdf">Project Progress Report</a>
