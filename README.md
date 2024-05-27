@@ -236,15 +236,15 @@
 
 <div align="center">
 
-  [<img src="https://github.com/binaryqubit.png" width="60px;" style="border-radius: 50%;"/><br /><sub><a href="https://github.com/binaryqubit">Amandip Padda</a></sub>](https://github.com/BinaryQuBit)
+  [<img src="https://github.com/binaryqubit.png" width="80px;" /><br /><sub><a href="https://github.com/binaryqubit">Amandip Padda</a></sub>](https://github.com/BinaryQuBit)
 
   <br>
 
-  [<img src="https://github.com/Rsa149.png" width="60px;" style="border-radius: 50%;"/><br /><sub><a href="https://github.com/Rsa149">Ramanpreet Singh</a></sub>](https://github.com/Rsa149)
+  [<img src="https://github.com/Rsa149.png" width="80px;" /><br /><sub><a href="https://github.com/Rsa149">Ramanpreet Singh</a></sub>](https://github.com/Rsa149)
 
   <br>
 
-  [<img src="https://github.com/Ehabmohamad.png" width="60px;" style="border-radius: 50%;"/><br /><sub><a href="https://github.com/Ehabmohamad">Ihab Mohamad</a></sub>](https://github.com/Ehabmohamad)
+  [<img src="https://github.com/Ehabmohamad.png" width="80px;" /><br /><sub><a href="https://github.com/Ehabmohamad">Ihab Mohamad</a></sub>](https://github.com/Ehabmohamad)
 
 </div>
 
