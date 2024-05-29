@@ -224,7 +224,6 @@
 - <a href = "https://github.com/BinaryQuBit/Blindness-Detection/blob/main/Documentation/Proposal.pdf">Project Proposal</a>
 - <a href = "https://github.com/BinaryQuBit/Blindness-Detection/blob/main/Documentation/Progress_Report.pdf">Project Progress Report</a>
 - <a href = "https://github.com/BinaryQuBit/Blindness-Detection/blob/main/Documentation/Project%20Report.pdf">Project Final Report</a>
-- <a href = "https://github.com/BinaryQuBit/Battleship-Game/blob/main/documents/Project352.pdf">Project Report</a>
 
 <br>
 
