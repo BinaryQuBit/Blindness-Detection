@@ -18,4 +18,4 @@ COPY ./backend ./backend
 
 EXPOSE 86
 
-CMD ["gunicorn", "-w", "4", "-b", "0.0.0.0:86", "-t", "120", "backend.server:app"]
+CMD ["gunicorn", "-w", "4", "-b", "0.0.0.0:86", "-t", "300", "backend.server:app"]
